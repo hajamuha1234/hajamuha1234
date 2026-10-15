@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammed Haja
 
-### 🛡️ Aspiring SOC Analyst | Cybersecurity Enthusiast | Security Analyst
+### 🛡️ SOC Analyst | Cybersecurity Enthusiast | Security Analyst
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=800&lines=Aspiring+SOC+Analyst;Learning+Threat+Detection+%26+Incident+Response;Exploring+Network+%26+Web+Security;Building+Practical+Cybersecurity+Skills" alt="Cybersecurity typing animation" />
